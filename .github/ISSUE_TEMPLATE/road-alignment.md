@@ -1,7 +1,6 @@
 ---
 name: Road Alignment
 about: Template for Road Alignment Projects
-title: TEST
 
 ---
 
