@@ -4,14 +4,14 @@ Kaart is a small team of active mappers contributing to foundational data in Ope
 ### Data Improvement Project Locations
 Kaart has traveled to and provided data improvements in the following countries and metropolitan areas:
 
-- Africa - Comores, Mauritius, Reunion
-- Caribbean - Dominican Republic, Jamaica, Trinidad & Tobago, Guadeloupe, Martinique, Bahamas, Barbados, Saint Lucia, Curacao, Aruba, Saint Vincent & Grenadines, Grenada, Antigua & Barbuda, Dominica, Cayman Islands, Saint Kitts & Nevis, Sint Maarten, Turks & Caicos, Saint Martin, British Virgin Islands, Bonaire, Anguilla, Saint Barthélemy, Montserrat
-- Central America - Guatemala, Honduras, El Salvador, Belize, Nicaragua, Costa Rica, Panama
-- North America - Baltimore, Maryland
-- South America - Colombia, Ecuador, Guyana, Suriname, French Guiana, Peru, Bolivia, Paraguay, Chile, Argentina, Uruguay
-- Middle East - Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Cyprus
-- Asia - Singapore, Hong Kong, Macau, Brunei, Philippines
-- Europe - Denmark, Ukraine, Iceland
+- Africa - Comores, Mauritius, Morocco, South Africa, Reunion
+- Asia - Brunei, Hong Kong, Macau, Philippines, Singapore, South Korea
+- Caribbean - Anguilla, Antigua & Barbuda, Aruba, Bahamas, Barbados, Bonaire, British Virgin Islands, Cayman Islands, Curacao, Dominica, Dominican Republic, Grenada, Guadeloupe, Jamaica, Martinique, Montserrat, Saint Barthélemy, Saint Kitts & Nevis, Saint Lucia, Saint Martin, Saint Vincent & Grenadines, Sint Maarten, Trinidad & Tobago, Turks & Caicos
+- Central America - Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama
+- North America - Baltimore, Colorado, Maryland, Mexico
+- South America - Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay
+- Middle East - Bahrain, Cyprus, Kuwait, Oman, Qatar, United Arab Emirates
+- Europe - Bosnia and Herzegovina, Denmark, Greece, Kosovo, Iceland, Macedonia, Moldova, Romania, Russia, Serbia, Turkey, Ukraine
 
 ##  Data Team Guidelines
 In addition to the community rules that all contributors must abide by, the Kaart team implements their own standards which are as follows:
